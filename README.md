@@ -2,9 +2,8 @@
 
 
 
-Project-1: submitted by: Ridhima Gupta Roll no: 102017100 Group: 3CS5
 
-It is a Python library for dealing with Multiple Criteria Decision Making(MCDM) problems by using Technique for Order of Preference by Similarity to Ideal Solution(TOPSIS).
+Made both Python library and a web service for dealing with Multiple Criteria Decision Making(MCDM) problems by using Technique for Order of Preference by Similarity to Ideal Solution(TOPSIS).
 
 
 ## Installation
